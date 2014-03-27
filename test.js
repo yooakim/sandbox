@@ -1,3 +1,1 @@
-var test = "joakim";
-
-console.log(test);
+console.log('Hej världen!');
