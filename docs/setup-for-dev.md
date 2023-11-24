@@ -7,6 +7,8 @@ The project uses a few dotnet tools, make sure to install them in your machine a
     dotnet tool restore
 
 
+
+
 ## Git configuration
 
 
