@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "cake.tool": {
+      "version": "4.0.0",
+      "commands": [
+        "dotnet-cake"
+      ]
+    },
+    "dotnet-serve": {
+      "version": "1.10.172",
+      "commands": [
+        "dotnet-serve"
+      ]
+    },
+    "dotnet-ef": {
+      "version": "6.0.25",
+      "commands": [
+        "dotnet-ef"
+      ]
+    }
+  }
+}
